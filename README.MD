@@ -16,7 +16,7 @@ Cайт создано в виде 𒆜 𝗥𝘂𝗯𝘆𝗠𝗮𝗶𝗻𝗲 �
 <br /><br /><br />
 [![TEXT](https://img.shields.io/badge/Телеграм_Канал:-@RUBYMAINE-EE0000??style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/rubymaine)
 [![TEXT](https://img.shields.io/badge/Автор:-RUBYMAINE-CC342D??style=for-the-badge&logo=ruby&logoColor=white)](#)
-[![TEXT](https://img.shields.io/badge/Дата_и_время_разработки:-[𝟮𝟱.𝟬𝟳.𝟮𝟬𝟮𝟯]-EE0000??style=for-the-badge&logo=rescuetime&logoColor=blue)](#)
+[![TEXT](https://img.shields.io/badge/Дата_и_время_разработки:-[𝟬𝟭.𝟬𝟴.𝟮𝟬𝟮𝟯]-EE0000??style=for-the-badge&logo=rescuetime&logoColor=blue)](#)
 
 </h3>
 
